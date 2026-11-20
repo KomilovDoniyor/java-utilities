@@ -1,0 +1,32 @@
+[
+  {
+    "Ccy": "USD",
+    "CcyNm_RU": "Доллар США",
+    "CcyNm_UZ": "AQSH dollari",
+    "CcyNm_UZC": "АҚШ доллари",
+    "CcyNm_EN": "US Dollar",
+    "Nominal": "1",
+    "Rate": "11971.64",
+    "Date": "20.11.2026"
+  },
+  {
+    "Ccy": "EUR",
+    "CcyNm_RU": "Евро",
+    "CcyNm_UZ": "EVRO",
+    "CcyNm_UZC": "EВРО",
+    "CcyNm_EN": "Euro",
+    "Nominal": "1",
+    "Rate": "13160.42",
+    "Date": "20.11.2026"
+  },
+  {
+    "Ccy": "RUB",
+    "CcyNm_RU": "Российский рубль",
+    "CcyNm_UZ": "Rossiya rubli",
+    "CcyNm_UZC": "Россия рубли",
+    "CcyNm_EN": "Russian Ruble",
+    "Nominal": "1",
+    "Rate": "146.33",
+    "Date": "20.11.2026"
+  }
+]
